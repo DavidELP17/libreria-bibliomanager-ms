@@ -1,3 +1,7 @@
+## Open Host Service
+
+Proyecto creado para Xalambo Librería, punto de interconexión entre el ecosistema digital de Xalambo Librería y Bibliomanager Servicios para canales de librerías.
+
 ## Micronaut 4.3.7 Documentation
 
 - [User Guide](https://docs.micronaut.io/4.3.7/guide/index.html)
