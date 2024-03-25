@@ -1,4 +1,4 @@
-## Open Host Service
+## Microservicio Xalambo Libreria - Bibliomanager
 
 Proyecto creado para Xalambo Librería, punto de interconexión entre el ecosistema digital de Xalambo Librería y Bibliomanager Servicios para canales de librerías.
 
